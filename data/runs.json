@@ -72,5 +72,120 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-25T22:00:51+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-25-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 5,
+      "total": 5,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 0,
+      "confirmed": 19,
+      "mismatch": 0,
+      "cannot_check": 1
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "accession": "0001652044-26-000066",
+        "period_label": "quarter ended 30 June 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "accession": "0001018724-26-000024",
+        "period_label": "quarter ended 30 June 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "accession": "0001628280-26-066700",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "92380",
+        "company": "SOUTHWEST AIRLINES CO",
+        "accession": "0000092380-26-000104",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "107687",
+        "company": "WINNEBAGO INDUSTRIES INC",
+        "accession": "0001628280-26-066605",
+        "period_label": "quarter ended 29 August 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 19 figures confirmed, 0 mismatches, 1 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-25T21:57:48+08:00",
+      "watch_brief": "briefs/2026-10-25-watch.md",
+      "brief_says": 366,
+      "saved_for_run": 366,
+      "match": true
+    },
+    "offline": false
   }
 ]
