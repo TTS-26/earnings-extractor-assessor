@@ -1,1 +1,314 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 31,271 | $ | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says revenues grew 24% and Google Cloud grew 82%.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says operating income rose 30% and the operating margin reached 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The release says other income was a net gain of $98.0 billion, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and the results outstanding, and names no headwind."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-25T21:57:48+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects third quarter 2026 net sales of $197.0 billion to $202.0 billion, growth of 9% to 12%.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says net sales rose 20% to $200.6 billion.",
+        "quote": "Net sales increased 20% to $200.6 billion in the second quarter, compared with $167.7 billion in second quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Management says operating income rose to $27.5 billion from $19.2 billion.",
+        "quote": "Operating income increased to $27.5 billion in the second quarter, compared with $19.2 billion in second quarter 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The release says net income includes $53.4 billion of non-operating other income, mainly from Anthropic investments.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and advertising had another strong quarter."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-25T21:57:48+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988 | $ | 20,535"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83 | $ | 1.05"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says revenue rose 26% year over year.",
+        "quote": "Revenue was $64.60 billion, an increase of 26% year-over-year on both a reported and constant currency basis."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The release says costs and expenses include a $9.89 billion charge from the attorneys general agreement.",
+        "quote": "Third quarter 2026 costs and expenses includes a $9.89 billion charge related to this agreement."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says investments are paying off and the core business is strong.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the core business is strong and investments are paying off."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-25T21:57:48+08:00"
+  },
+  {
+    "cik": "92380",
+    "company": "SOUTHWEST AIRLINES CO",
+    "accession": "0000092380-26-000104",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 8422,
+        "unit": "USD millions",
+        "quote": "Total operating revenues | 8,422 | 6,949"
+      },
+      "operating_income": {
+        "value": 379,
+        "unit": "USD millions",
+        "quote": "OPERATING INCOME | 379 | 35"
+      },
+      "net_income": {
+        "value": 270,
+        "unit": "USD millions",
+        "quote": "NET INCOME | $ | 270 | $ | 54"
+      },
+      "diluted_eps": {
+        "value": 0.55,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.55 | $ | 0.10"
+      }
+    },
+    "guidance": {
+      "text": "Southwest expects fourth quarter 2026 unit revenue (RASM) to rise 19% to 21% year over year.",
+      "quote": "Fourth quarter 2026 RASM is expected to increase between 19% and 21% year-over-year"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management reports record third quarter operating revenues of $8.4 billion, up 21.2%.",
+        "quote": "Operating revenues of $8.4 billion, up 21.2%, a third quarter Company record"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says the operating margin was 4.5%, up 4.0 points, despite higher fuel costs.",
+        "quote": "Operating margin of 4.5%, up 4.0 points year-over-year"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says strong demand has continued into the fourth quarter.",
+        "quote": "Robust demand has continued in the fourth quarter"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites strong demand, record revenue and confidence in stronger earnings."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/92380-0000092380-26-000104.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000104/er-9302026xerdoc.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000104/0000092380-26-000104-index.htm",
+    "saved_at": "2026-10-25T21:57:48+08:00"
+  },
+  {
+    "cik": "107687",
+    "company": "WINNEBAGO INDUSTRIES INC",
+    "accession": "0001628280-26-066605",
+    "release_date": "2026-10-21",
+    "period_end": "2026-08-29",
+    "period_label": "quarter ended 29 August 2026",
+    "figures": {
+      "revenue": {
+        "value": 645.1,
+        "unit": "USD millions",
+        "quote": "Net revenues | $ | 645.1 | 100.0 | % | $ | 777.3"
+      },
+      "operating_income": {
+        "value": 17.6,
+        "unit": "USD millions",
+        "quote": "Operating income | 17.6 | 2.7 | % | 20.1"
+      },
+      "net_income": {
+        "value": 9.7,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9.7 | 1.5 | % | $ | 13.7"
+      },
+      "diluted_eps": {
+        "value": 0.34,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.34 | $ | 0.49"
+      }
+    },
+    "guidance": {
+      "text": "Winnebago expects fiscal 2027 net revenues of $2.65 to $2.80 billion.",
+      "quote": "Consolidated net revenues in the range of $2.65 to $2.80 billion;"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The release reports fourth quarter net revenues of $645.1 million, down from $777.3 million.",
+        "quote": "Net revenues of $645.1 million compared to $777.3 million in the fourth quarter of Fiscal 2025"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The release reports operating income down 12.3% to $17.6 million.",
+        "quote": "Operating income was $17.6 million, a decrease of 12.3% compared to $20.1 million in the fourth quarter of Fiscal 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the timing and pace of recovery are difficult to predict.",
+        "quote": "Fiscal 2027 outlook reflects a market where the timing and pace of recovery remain difficult to predict"
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO cites persistent market pressure and an unpredictable recovery."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/107687-0001628280-26-066605.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/107687/000162828026066605/exh9912026q4earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/107687/000162828026066605/0001628280-26-066605-index.htm",
+    "saved_at": "2026-10-25T21:57:48+08:00"
+  }
+]

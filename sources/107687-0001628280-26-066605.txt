@@ -1,0 +1,398 @@
+Company: WINNEBAGO INDUSTRIES INC (CIK 107687)
+Accession: 0001628280-26-066605
+Results released: 2026-10-21
+Press release: https://www.sec.gov/Archives/edgar/data/107687/000162828026066605/exh9912026q4earningsrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/107687/000162828026066605/0001628280-26-066605-index.htm
+Saved: 2026-10-25T21:57:48+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exh9912026q4earningsrelease.htm EX-99.1
+Exhibit 99.1
+News Release
+WINNEBAGO INDUSTRIES REPORTS FOURTH QUARTER AND FULL YEAR FISCAL 2026 RESULTS
+-- Motorhome RV Continues to Gain Share through Innovation and Operational Execution(1) --
+-- Recent Manufacturing Footprint Actions Expected to Drive Long-Term Returns --
+-- Barletta Continues to Expand Share of the U.S. Aluminum Pontoon Market(1) --
+-- Strong Cash Flows in the Quarter and an Improvement in Net Leverage to 2.2x --
+-- Company Issues Fiscal 2027 Financial Guidance --
+EDEN PRAIRIE, MINN., October 21, 2026 -- Winnebago Industries, Inc. (NYSE: WGO), a leading manufacturer of outdoor recreation products, today reported financial results for the Company's fourth quarter and full year Fiscal 2026.
+Fourth Quarter Fiscal 2026 Financial Summary
+•Net revenues of $645.1 million compared to $777.3 million in the fourth quarter of Fiscal 2025
+•Gross profit of $80.7 million, representing 12.5% gross margin, compared to $99.2 million, representing 12.8% gross margin in the fourth quarter of Fiscal 2025
+•Net income of $9.7 million, or $0.34 per diluted share; adjusted earnings per diluted share of $0.49 compared to $0.71 in the fourth quarter of Fiscal 2025
+•Adjusted EBITDA of $32.6 million, representing 5.1% adjusted EBITDA margin
+•Net cash flow from operations of $142.5 million
+•Net leverage ratio improved to 2.2x at quarter end
+Full Year Fiscal 2026 Financial Summary
+•Net revenues of $2,703.9 million compared to $2,798.2 million in Fiscal 2025
+•Gross profit of $350.2 million, representing 13.0% gross margin, compared to $365.1 million, representing 13.0% gross margin in Fiscal 2025
+•Net income of $34.5 million, or $1.21 per diluted share; adjusted earnings per diluted share of $1.79 compared to $1.67 in Fiscal 2025
+•Adjusted EBITDA of $125.0 million, representing 4.6% adjusted EBITDA margin
+•Net cash flow from operations of $168.7 million
+CEO Commentary
+“Fiscal 2026 highlighted the resilience of our portfolio and the disciplined execution of our teams in a persistently challenging retail environment,” said President and Chief Executive Officer Michael Happe. “By maintaining focus on the factors within our control, including product innovation, operational improvements and deliberate production and inventory management, we continued to strengthen our brands and position the portfolio for long-term growth.
+1
+“Even as market pressure across our segments persisted, we began to see encouraging early signs across several strategic initiatives: real traction in the Winnebago Motorhome transformation, stabilizing share trends and improving market share at Grand Design Towables, growing market penetration for Grand Design Motorized, and impressive share growth at Winnebago Towables,” Happe said. “We took actions to rationalize capacity, drive operational efficiency, and better align our manufacturing footprint with market demand. These initiatives remain at different stages of development, and we expect their financial contribution to build gradually, with greater value accruing in future years. Together with the strong continued growth of Barletta's market presence in pontoons and our growing portable power offerings, this progress reinforces our confidence in the long-term earnings potential of our portfolio.
+"At multiple retail, trade, and dealer meeting events in September, we demonstrated the breadth of our portfolio with new offerings across brands, product categories and price points. Dealer feedback was encouraging and reinforced that the investments we've made around both innovation and affordability are well aligned with evolving consumer preferences, positioning us to capitalize on opportunities within our control while continuing to elevate the ownership experience."
+Fourth Quarter Fiscal 2026 Results
+Net revenues were $645.1 million, a decrease of 17.0% compared to $777.3 million in the fourth quarter of Fiscal 2025, primarily due to lower unit volume and product mix, partially offset by selective price adjustments.
+Gross profit was $80.7 million, a decrease of 18.6% compared to $99.2 million in the fourth quarter of Fiscal 2025. Gross profit margin decreased 30 basis points in the quarter to 12.5%, primarily due to volume deleverage, partially offset by operational efficiencies from Motorhome segment transformation initiatives.
+Operating expenses were $63.1 million, a decrease of 20.1% compared to $79.1 million in the fourth quarter of Fiscal 2025, primarily due to cost reduction initiatives.
+Operating income was $17.6 million, a decrease of 12.3% compared to $20.1 million in the fourth quarter of Fiscal 2025.
+Net income was $9.7 million, compared to $13.7 million in the fourth quarter of Fiscal 2025. Reported earnings per diluted share was $0.34, compared to a reported earnings per diluted share of $0.49 in the fourth quarter of Fiscal 2025. Adjusted earnings per diluted share was $0.49, a decrease of 31.0% compared to adjusted earnings per diluted share of $0.71 in the fourth quarter of Fiscal 2025.
+Consolidated Adjusted EBITDA was $32.6 million, a decrease of 14.7%, compared to $38.2 million in the fourth quarter of Fiscal 2025.
+Full Year Fiscal 2026 Results
+Net revenues were $2.7 billion, a decrease of 3.4% compared to $2.8 billion in Fiscal 2025, primarily due to lower unit volume, partially offset by selective price adjustments and product mix.
+Gross profit was $350.2 million, a decrease of 4.1% compared to $365.1 million in Fiscal 2025. Gross profit margin remained consistent year-over-year at 13.0% as volume deleverage was largely offset by selective price adjustments.
+Operating expenses were $284.0 million, compared to $307.9 million in Fiscal 2025. Operating expenses decreased primarily due to cost reduction initiatives, partially offset by costs to support the growth of the Grand Design Motorhome business.
+Operating income was $66.2 million, an increase of 15.7% compared to $57.2 million in Fiscal 2025.
+2
+Net income was $34.5 million, compared to $25.7 million in Fiscal 2025. Reported earnings per diluted share was $1.21, an increase of 33.0% compared to reported earnings per diluted share of $0.91 in Fiscal 2025. Adjusted earnings per diluted share was $1.79, an increase of 7.2% compared to adjusted earnings per diluted share of $1.67 in Fiscal 2025.
+Consolidated Adjusted EBITDA was $125.0 million, an increase of 2.5%, compared to $121.9 million in Fiscal 2025.
+Fourth Quarter and Fiscal 2026 Segments Summary
+Towable RV
+Three Months Ended
+($, in millions) | August 29, 2026 | August 30, 2025 | Change(1)
+Net revenues | $ | 220.3 | $ | 306.3 | (28.1) | %
+Operating income | $ | 9.3 | $ | 21.4 | (56.5) | %
+Operating income margin | 4.2 | % | 7.0 | % | (280) bps
+(1) Amounts are calculated based on unrounded numbers and therefore may not recalculate using the rounded numbers provided.
+•Net revenues decreased primarily due to lower unit volume and a shift in product mix toward lower price-point models, partially offset by selective price adjustments.
+•Operating income margin decreased primarily due to volume deleverage and higher discounts and allowances, partially offset by cost containment initiatives and selective price adjustments.
+Year Ended
+($, in millions) | August 29, 2026 | August 30, 2025 | Change(1)
+Net revenues | $ | 1,050.8 | $ | 1,220.2 | (13.9) | %
+Operating income | $ | 47.5 | $ | 72.7 | (34.7) | %
+Operating income margin | 4.5 | % | 6.0 | % | (150) bps
+(1) Amounts are calculated based on unrounded numbers and therefore may not recalculate using the rounded numbers provided.
+•Net revenues decreased primarily due to lower unit volume and a shift in product mix toward lower price-point models, partially offset by selective price adjustments.
+•Operating income margin decreased primarily due to volume deleverage, higher discounts and allowances, and product mix, partially offset by selective price adjustments and cost containment initiatives.
+3
+Motorhome RV
+Three Months Ended
+($, in millions) | August 29, 2026 | August 30, 2025 | Change(1)
+Net revenues | $ | 323.6 | $ | 361.2 | (10.4) | %
+Operating income | $ | 7.9 | $ | (0.3) | NM
+Operating income margin | 2.4 | % | (0.1) | % | 250 bps
+(1) Amounts are calculated based on unrounded numbers and therefore may not recalculate using the rounded numbers provided.
+NM: Not meaningful.
+•Net revenues decreased primarily due to lower unit volume and a shift in product mix toward lower price-point models, partially offset by lower discounts and allowances.
+•Operating income margin increased primarily due to operational efficiencies from transformation initiatives, lower discounts and allowances, and cost containment initiatives, partially offset by volume deleverage.
+Year Ended
+($, in millions) | August 29, 2026 | August 30, 2025 | Change(1)
+Net revenues | $ | 1,257.5 | $ | 1,159.7 | 8.4 | %
+Operating income | $ | 33.2 | $ | (7.3) | NM
+Operating income margin | 2.6 | % | (0.6) | % | 320 bps
+(1) Amounts are calculated based on unrounded numbers and therefore may not recalculate using the rounded numbers provided.
+NM: Not meaningful.
+•Net revenues increased primarily due to higher unit volume, selective price adjustments, and lower discounts and allowances.
+•Operating income margin increased primarily due to lower discounts and allowances, and volume leverage.
+Marine
+Three Months Ended
+($, in millions) | August 29, 2026 | August 30, 2025 | Change(1)
+Net revenues | $ | 92.3 | $ | 94.9 | (2.7) | %
+Operating income | $ | 6.6 | $ | 6.7 | (1.5) | %
+Operating income margin | 7.1 | % | 7.1 | % | — bps
+(1) Amounts are calculated based on unrounded numbers and therefore may not recalculate using the rounded numbers provided.
+NM: Not meaningful.
+•Net revenues decreased primarily due to a shift in product mix toward lower price-point models, partially offset by selective price adjustments.
+•Operating income margin was consistent with prior year primarily due to selective price adjustments, offset by product mix.
+4
+Year Ended
+($, in millions) | August 29, 2026 | August 30, 2025 | Change(1)
+Net revenues | $ | 356.4 | $ | 367.8 | (3.1) | %
+Operating income | $ | 20.9 | $ | 27.7 | (24.5) | %
+Operating income margin | 5.9 | % | 7.5 | % | (160) bps
+(1) Amounts are calculated based on unrounded numbers and therefore may not recalculate using the rounded numbers provided.
+NM: Not meaningful.
+•Net revenues decreased primarily due to a shift in product mix toward lower price-point models and lower unit volume, partially offset by selective price adjustments.
+•Operating income margin decreased primarily due to volume deleverage and higher warranty expense, partially offset by selective price adjustments.
+Balance Sheet and Cash Flow
+At the end of the fourth quarter of Fiscal 2026, cash and cash equivalents totaled $181.4 million compared to $57.1 million at the end of the Fiscal 2026 third quarter and $174.0 million at the end of Fiscal 2025. Total outstanding debt was $443.3 million, which included $450.0 million of debt, net of issuance costs of $6.7 million. Working capital improved to $419.1 million, reflecting disciplined balance sheet management and stronger operating efficiency. Cash flow provided by operations was $142.5 million in the Fiscal 2026 fourth quarter. Net leverage was 2.2x at the end of the Fiscal 2026 fourth quarter, down from 3.0x at the end of the third quarter, reflecting strong cash generation and continued progress in strengthening our leverage position.
+Quarterly Cash Dividend and Share Repurchases
+On August 12, 2026, the Company’s Board of Directors approved a 3% increase in the quarterly cash dividend to $0.36 per share. The dividend was paid on September 23, 2026, to common stockholders of record at the close of business on September 9, 2026.
+“Fiscal 2026 also reflected the strength of our balance sheet and disciplined approach to capital allocation,” Happe said. “The renewal and extension of our $350 million revolving credit facility through 2031 and the Board's decision to increase the quarterly dividend underscore our confidence in the business and long-term strategy. Supported by solid operating cash flow, improved working-capital performance and lower year-end leverage, we exited the year with a stronger balance sheet and the flexibility to continue investing in innovation, operations and customer experience."
+Outlook
+For calendar year 2026, Winnebago Industries now expects North American RV wholesale shipments in the range of 275,000 to 295,000 units. For calendar year 2027, Winnebago Industries anticipates total North American RV wholesale shipments in the range of 265,000 to 295,000 units. Based on this outlook and the current business environment, in Fiscal 2027 the Company expects:
+•Consolidated net revenues in the range of $2.65 to $2.80 billion;
+•Reported earnings per diluted share in the range of $0.90 to $1.50; and
+•Adjusted earnings per diluted share in the range of $1.65 to $2.25(2)
+The Company’s outlook takes into account prevailing trends in the RV sector, including the impacts from current policy and trade environment, competitive dynamics, shifts in consumer preferences, and key macroeconomic factors that may influence overall
+demand.
+5
+“Fiscal 2027 outlook reflects a market where the timing and pace of recovery remain difficult to predict,” Happe said. “We will stay focused on serving our customer and dealers at high levels, delivering differentiated products that consumers value and continuing to strengthen our operational efficiency and discipline. The progress we made in fiscal 2026 gives us a stronger operating foundation to manage near-term volatility and capitalize on opportunities as they emerge."
+Q4 FY 2026 Conference Call
+Winnebago Industries, Inc. will discuss fourth quarter and full year Fiscal 2026 earnings results during a conference call scheduled for 9:00 a.m. Central Time today. Members of the news media, investors and the general public are invited to access a live broadcast of the conference call and view the accompanying presentation slides via the Investor Relations page of the Company's website at http://investor.wgo.net. The event will be archived and available for replay for the next 90 days.
+6
+About Winnebago Industries
+Winnebago Industries, Inc. is a leading North American manufacturer of outdoor recreation products under the Winnebago, Grand Design, Chris-Craft, Newmar and Barletta brands, which are used primarily in leisure travel and outdoor recreation activities. The Company builds high-quality motorhomes, travel trailers, fifth-wheel products, outboard and sterndrive powerboats, pontoons, and commercial community outreach vehicles. Committed to advancing sustainable innovation and leveraging vertical integration in key component areas, Winnebago Industries has multiple facilities in Iowa, Indiana, Minnesota and Florida. The Company’s common stock is listed on the New York Stock Exchange and traded under the symbol WGO. For access to Winnebago Industries' investor relations material or to add your name to an automatic email list for Company news releases, visit http://investor.wgo.net.
+Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including the business outlook and financial guidance for Fiscal 2027. Investors are cautioned that forward-looking statements are inherently uncertain and involve potential risks and uncertainties. A number of factors could cause actual results to differ materially from these statements, including, but not limited to general economic uncertainty in key markets and a worsening of domestic and global economic conditions or low levels of economic growth, including changes in consumer disposable income; availability of financing for RV and marine dealers and retail purchasers; competition and new product introductions by competitors; ability to innovate and commercialize new products; ability to manage our inventory to meet demand; risk related to cyclicality and seasonality of our business; risk related to performance and financial condition of independent dealers; risk related to dealer consolidation or the loss of a significant dealer; significant increase in repurchase obligations; ability to retain relationships with our suppliers and obtain components; business or production disruptions; inadequate management of dealer inventory levels; increased material and component costs, including availability and price of fuel and other raw materials; risk related to changes in trade policy, including tariffs; ability to manage strategic acquisitions, alliances, joint ventures and partnerships; ability to attract and retain qualified personnel and changes in market compensation rates; exposure to warranty claims and product recalls; ability to protect our information technology systems from failures and disruptions, including those associated with system implementations; risks related to cybersecurity incidents; risks related to the use of Artificial Intelligence ("AI") technologies; ability to maintain compliance with data governance; ability to retain brand reputation and related exposure to product liability claims; governmental regulation, including for climate change; increased attention to sustainability matters, and our ability to meet our commitments; impairment of goodwill and trade names; risks related to our 2030 Convertible Notes and Senior Secured Notes, including our ability to satisfy our obligations under these notes; and changes in recommendations or a withdrawal of coverage by third-party securities analysts. Additional information concerning certain risks and uncertainties that could cause actual results to differ materially from that projected or suggested is contained in the Company's filings with the Securities and Exchange Commission ("SEC") over the last 12 months, copies of which are available from the SEC or from the Company upon request. We caution that the foregoing list of important factors is not complete. The Company disclaims any obligation or undertaking to disseminate any updates or revisions to any forward-looking statements contained in this release or to reflect any changes in the Company's expectations after the date of this release or any change in events, conditions or circumstances on which any statement is based, except as required by law.
+Contacts
+Investors: Joan Ondala
+ir@winnebagoind.com
+Media: Dan Sullivan
+media@winnebagoind.com
+7
+Winnebago Industries, Inc.
+Footnotes to News Release
+Footnotes:
+(1) Source: Statistical Surveys Inc. for the trailing 12 months ended 8/31/2026 and 8/31/2025.
+(2) Fiscal 2027 adjusted EPS guidance primarily excludes the pretax impact of intangible amortization of approximately $22 million and restructuring and related costs of approximately $6 million.
+8
+Winnebago Industries, Inc.
+Condensed Consolidated Statements of Income
+(Unaudited and subject to reclassification)
+Three Months Ended
+(in millions, except percent and per share data) | August 29, 2026 | August 30, 2025
+Net revenues | $ | 645.1 | 100.0 | % | $ | 777.3 | 100.0 | %
+Cost of goods sold | 564.4 | 87.5 | % | 678.1 | 87.2 | %
+Gross profit | 80.7 | 12.5 | % | 99.2 | 12.8 | %
+Selling, general, and administrative expenses | 57.6 | 8.9 | % | 73.7 | 9.5 | %
+Amortization | 5.5 | 0.9 | % | 5.4 | 0.7 | %
+Total operating expenses | 63.1 | 9.8 | % | 79.1 | 10.2 | %
+Operating income | 17.6 | 2.7 | % | 20.1 | 2.6 | %
+Interest expense, net | 4.6 | 0.6 | % | 6.6 | 0.8 | %
+Non-operating loss | 0.4 | 0.1 | % | 0.2 | 0.1 | %
+Income before income taxes | 12.6 | 2.0 | % | 13.3 | 1.7 | %
+Income tax provision (benefit) | 2.9 | 0.5 | % | (0.4) | (0.1) | %
+Net income | $ | 9.7 | 1.5 | % | $ | 13.7 | 1.8 | %
+Earnings per common share:
+Basic | $ | 0.34 | $ | 0.49
+Diluted | $ | 0.34 | $ | 0.49
+Weighted average common shares outstanding:
+Basic | 28.3 | 28.0
+Diluted | 28.6 | 28.2
+Year Ended
+(in millions, except percent and per share data) | August 29, 2026 | August 30, 2025
+Net revenues | $ | 2,703.9 | 100.0 | % | $ | 2,798.2 | 100.0 | %
+Cost of goods sold | 2,353.7 | 87.0 | % | 2,433.1 | 87.0 | %
+Gross profit | 350.2 | 13.0 | % | 365.1 | 13.0 | %
+Selling, general, and administrative expenses | 262.3 | 9.7 | % | 285.8 | 10.2 | %
+Amortization | 21.7 | 0.8 | % | 22.1 | 0.8 | %
+Total operating expenses | 284.0 | 10.5 | % | 307.9 | 11.0 | %
+Operating income | 66.2 | 2.4 | % | 57.2 | 2.0 | %
+Interest expense, net | 20.9 | 0.8 | % | 25.9 | 0.9 | %
+Loss on note repurchase | 0.8 | — | % | 2.0 | 0.1 | %
+Non-operating loss (income) | 0.1 | — | % | (0.8) | (0.1) | %
+Income before income taxes | 44.4 | 1.6 | % | 30.1 | 1.1 | %
+Income tax provision | 9.9 | 0.4 | % | 4.4 | 0.2 | %
+Net income | $ | 34.5 | 1.2 | % | $ | 25.7 | 0.9 | %
+Earnings per common share:
+Basic | $ | 1.22 | $ | 0.91
+Diluted | $ | 1.21 | $ | 0.91
+Weighted average common shares outstanding:
+Basic | 28.2 | 28.2
+Diluted | 28.4 | 28.3
+Amounts in tables are calculated based on unrounded numbers and therefore may not recalculate using the rounded numbers provided.
+In addition, percentages may not add in total due to rounding.
+9
+Winnebago Industries, Inc.
+Condensed Consolidated Balance Sheets
+(Unaudited and subject to reclassification)
+(in millions) | August 29, 2026 | August 30, 2025
+Assets
+Current assets
+Cash and cash equivalents | $ | 181.4 | $ | 174.0
+Receivables, net | 153.5 | 192.0
+Inventories, net | 404.7 | 396.4
+Prepaid expenses and other current assets | 38.7 | 29.8
+Total current assets | 778.3 | 792.2
+Property, plant, and equipment, net | 317.6 | 333.0
+Goodwill | 484.2 | 484.2
+Other intangible assets, net | 435.3 | 456.9
+Investment in life insurance | 28.3 | 27.1
+Operating lease assets | 39.6 | 41.6
+Other long-term assets | 18.2 | 19.4
+Total assets | $ | 2,101.5 | $ | 2,154.4
+Liabilities and Shareholders' Equity
+Current liabilities
+Accounts payable | $ | 174.1 | $ | 129.3
+Accrued expenses | 185.1 | 197.8
+Total current liabilities | 359.2 | 327.1
+Long-term debt, net | 443.3 | 540.5
+Deferred income tax liabilities, net | 12.3 | 5.9
+Unrecognized tax benefits | 4.1 | 4.8
+Long-term operating lease liabilities | 36.3 | 39.3
+Deferred compensation benefits, net of current portion | 4.3 | 5.1
+Other long-term liabilities | 5.4 | 7.0
+Total liabilities | 864.9 | 929.7
+Shareholders' equity | 1,236.6 | 1,224.7
+Total liabilities and shareholders' equity | $ | 2,101.5 | $ | 2,154.4
+10
+Winnebago Industries, Inc.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited and subject to reclassification)
+Year Ended
+(in millions) | August 29, 2026 | August 30, 2025
+Operating activities
+Net income | $ | 34.5 | $ | 25.7
+Adjustments to reconcile net income to net cash provided by operating activities
+Depreciation | 38.3 | 38.5
+Amortization | 21.7 | 22.1
+Amortization of debt issuance costs | 2.5 | 3.0
+Last in, first-out expense | 0.1 | 1.8
+Stock-based compensation | 16.9 | 15.8
+Deferred income taxes | 6.3 | 2.9
+Deferred compensation expense | 0.6 | 0.7
+Loss on note repurchase (Note 8) | 0.8 | 2.0
+Asset impairment | — | 1.2
+Restructuring and related costs | 1.6 | 2.9
+Other, net | (2.7) | (1.0)
+Change in operating assets and liabilities, net of assets and liabilities acquired
+Receivables, net | 38.5 | (8.2)
+Inventories, net | (8.4) | 40.5
+Prepaid expenses and other assets | (4.3) | 9.2
+Accounts payable | 43.7 | (11.6)
+Income taxes and unrecognized tax benefits | 3.3 | 1.3
+Accrued expenses and other liabilities | (24.7) | (17.9)
+Net cash provided by operating activities | 168.7 | 128.9
+Investing activities
+Purchases of property, plant, and equipment | (24.1) | (39.4)
+Proceeds from the sale of property, plant, and equipment | 5.6 | 2.2
+Other, net | — | 2.4
+Net cash used in investing activities | (18.5) | (34.8)
+Financing activities
+Borrowings on long-term debt | 3.0 | 48.8
+Repayments on long-term debt | (103.0) | (208.7)
+Payments of cash dividends | (39.9) | (38.9)
+Payments for repurchases of common stock | (1.7) | (53.7)
+Payments of debt issuance costs | (2.2) | —
+Other, net | 1.0 | 1.5
+Net cash used in financing activities | (142.8) | (251.0)
+Net increase (decrease) in cash and cash equivalents | 7.4 | (156.9)
+Cash and cash equivalents at beginning of period | 174.0 | 330.9
+Cash and cash equivalents at end of period | $ | 181.4 | $ | 174.0
+Supplemental Disclosures
+Income taxes paid, net | $ | 0.9 | $ | 2.5
+Interest paid | 22.3 | 29.5
+Non-cash investing and financing activities
+Capital expenditures in accounts payable | $ | 1.4 | $ | 0.4
+Dividends declared not yet paid | 11.7 | 11.0
+11
+Increase in lease assets in exchange for lease liabilities:
+Operating leases | 5.5 | 2.7
+Financing leases | — | 0.2
+12
+Winnebago Industries, Inc.
+Supplemental Information by Reportable Segment - Towable RV
+(in millions, except unit data)
+(Unaudited and subject to reclassification)
+Three Months Ended
+August 29, 2026 | % of Revenues(1) | August 30, 2025 | % of Revenues(1) | $ Change(1) | % Change(1)
+Net revenues | $ | 220.3 | $ | 306.3 | $ | (86.0) | (28.1) | %
+Operating income | 9.3 | 4.2 | % | 21.4 | 7.0 | % | (12.1) | (56.5) | %
+Three Months Ended
+Unit deliveries | August 29, 2026 | Product Mix(2) | August 30, 2025 | Product Mix(2) | Unit Change | % Change
+Travel trailer | 4,671 | 78.0 | % | 5,680 | 72.5 | % | (1,009) | (17.8) | %
+Fifth wheel | 1,314 | 22.0 | % | 2,153 | 27.5 | % | (839) | (39.0) | %
+Total Towable RV | 5,985 | 100.0 | % | 7,833 | 100.0 | % | (1,848) | (23.6) | %
+Year Ended
+August 29, 2026 | % of Revenues(1) | August 30, 2025 | % of Revenues(1) | $ Change(1) | % Change(1)
+Net revenues | $ | 1,050.8 | $ | 1,220.2 | $ | (169.4) | (13.9) | %
+Operating income | 47.5 | 4.5 | % | 72.7 | 6.0 | % | (25.2) | (34.7) | %
+Year Ended
+Unit deliveries | August 29, 2026 | Product Mix(2) | August 30, 2025 | Product Mix(2) | Unit Change | % Change
+Travel trailer | 20,021 | 74.1 | % | 21,714 | 69.7 | % | (1,693) | (7.8) | %
+Fifth wheel | 6,983 | 25.9 | % | 9,455 | 30.3 | % | (2,472) | (26.1) | %
+Total Towable RV | 27,004 | 100.0 | % | 31,169 | 100.0 | % | (4,165) | (13.4) | %
+Dealer Inventory(3) | August 29, 2026 | August 30, 2025 | Unit Change | % Change
+Units | 15,471 | 16,200 | (729) | (4.5) | %
+(1) Amounts are calculated based on unrounded numbers and therefore may not recalculate using the rounded numbers provided.
+(2) Percentages may not add due to rounding differences.
+(3) Data is based on the latest information available from our dealer partners and is subject to timing of reporting and other limitations.
+13
+Winnebago Industries, Inc.
+Supplemental Information by Reportable Segment - Motorhome RV
+(in millions, except unit data)
+(Unaudited and subject to reclassification)
+Three Months Ended
+August 29, 2026 | % of Revenues(1) | August 30, 2025 | % of Revenues(1) | $ Change(1) | % Change(1)
+Net revenues | $ | 323.6 | $ | 361.2 | $ | (37.6) | (10.4) | %
+Operating income (loss) | 7.9 | 2.4 | % | (0.3) | (0.1) | % | 8.2 | NM
+Three Months Ended
+Unit deliveries | August 29, 2026 | Product Mix(2) | August 30, 2025 | Product Mix(2) | Unit Change | % Change
+Class A | 187 | 11.9 | % | 403 | 23.1 | % | (216) | (53.6) | %
+Class B | 518 | 33.0 | % | 524 | 30.0 | % | (6) | (1.1) | %
+Class C | 865 | 55.1 | % | 818 | 46.9 | % | 47 | 5.7 | %
+Total Motorhome RV | 1,570 | 100.0 | % | 1,745 | 100.0 | % | (175) | (10.0) | %
+Year Ended
+August 29, 2026 | % of Revenues(1) | August 30, 2025 | % of Revenues(1) | $ Change(1) | % Change(1)
+Net revenues | $ | 1,257.5 | $ | 1,159.7 | $ | 97.7 | 8.4 | %
+Operating income (loss) | 33.2 | 2.6 | % | (7.3) | (0.6) | % | 40.4 | NM
+Year Ended
+Unit deliveries | August 29, 2026 | Product Mix(2) | August 30, 2025 | Product Mix(2) | Unit Change | % Change
+Class A | 892 | 15.1 | % | 1,211 | 21.1 | % | (319) | (26.3) | %
+Class B | 1,934 | 32.6 | % | 1,682 | 29.3 | % | 252 | 15.0 | %
+Class C | 3,099 | 52.3 | % | 2,849 | 49.6 | % | 250 | 8.8 | %
+Total Motorhome RV | 5,925 | 100.0 | % | 5,742 | 100.0 | % | 183 | 3.2 | %
+Dealer Inventory(3) | August 29, 2026 | August 30, 2025 | Unit Change | % Change
+Units | 3,395 | 3,562 | (167) | (4.7) | %
+(1) Amounts are calculated based on unrounded numbers and therefore may not recalculate using the rounded numbers provided.
+(2) Percentages may not add due to rounding differences.
+(3) Data is based on the latest information available from our dealer partners and is subject to timing of reporting and other limitations.
+NM: Not meaningful.
+14
+Winnebago Industries, Inc.
+Supplemental Information by Reportable Segment - Marine
+(in millions, except unit data)
+(Unaudited and subject to reclassification)
+Three Months Ended
+August 29, 2026 | % of Revenues(1) | August 30, 2025 | % of Revenues(1) | $ Change(1) | % Change(1)
+Net revenues | $ | 92.3 | $ | 94.9 | $ | (2.6) | (2.7) | %
+Operating income | 6.6 | 7.1 | % | 6.7 | 7.1 | % | (0.1) | (1.5) | %
+Three Months Ended
+Unit deliveries | August 29, 2026 | August 30, 2025 | Unit Change | % Change
+Boats | 1,141 | 1,164 | (23) | (2.0) | %
+Year Ended
+August 29, 2026 | % of Revenues(1) | August 30, 2025 | % of Revenues(1) | $ Change(1) | % Change(1)
+Net revenues | $ | 356.4 | $ | 367.8 | $ | (11.4) | (3.1) | %
+Operating income | 20.9 | 5.9 | % | 27.7 | 7.5 | % | (6.8) | (24.5) | %
+Year Ended
+Unit deliveries | August 29, 2026 | August 30, 2025 | Unit Change | % Change
+Boats | 4,423 | 4,635 | (212) | (4.6) | %
+Dealer Inventory(2,3) | August 29, 2026 | August 30, 2025 | Unit Change | % Change
+Units | 2,510 | 2,687 | (177) | (6.6) | %
+(1) Amounts are calculated based on unrounded numbers and therefore may not recalculate using the rounded numbers provided.
+(2) Due to the nature of the Marine industry, this amount includes a higher proportion of retail sold units than our other segments.
+(3) Data is based on the latest information available from our dealer partners and is subject to timing of reporting and other limitations.
+NM: Not meaningful.
+15
+Winnebago Industries, Inc.
+Non-GAAP Reconciliation
+(Unaudited and subject to reclassification)
+Non-GAAP financial measures, which are not calculated or presented in accordance with accounting principles generally accepted in the United States (“GAAP”), have been provided as information supplemental and in addition to the financial measures presented in the accompanying news release that are calculated and presented in accordance with GAAP. Such non-GAAP financial measures should not be considered superior to, as a substitute for, or as an alternative to, and should be considered in conjunction with, the GAAP financial measures presented in the news release. The non-GAAP financial measures presented may differ from similar measures used by other companies.
+The following table reconciles diluted earnings per share to Adjusted diluted earnings per share:
+Three Months Ended | Year Ended
+August 29, 2026 | August 30, 2025 | August 29, 2026 | August 30, 2025
+Diluted earnings per share | $ | 0.34 | $ | 0.49 | $ | 1.21 | $ | 0.91
+Amortization(1) | 0.19 | 0.19 | 0.76 | 0.78
+Loss on note repurchase(1) | — | — | 0.03 | 0.07
+Asset impairment(1) | — | — | — | 0.04
+Restructuring and related costs(1) | — | 0.10 | 0.06 | 0.10
+Gain on sale of property, plant and equipment(1) | — | — | (0.10) | —
+Tax impact of adjustments(2) | (0.04) | (0.07) | (0.17) | (0.23)
+Adjusted diluted earnings per share(3) | $ | 0.49 | $ | 0.71 | $ | 1.79 | $ | 1.67
+(1) Represents a pre-tax adjustment.
+(2) Income tax impact calculated using the statutory tax rate for the U.S. of 22.0% and 23.0% for Fiscal 2026 and Fiscal 2025.
+(3) Per share numbers may not foot due to rounding.
+The following table reconciles net income to consolidated EBITDA and Adjusted EBITDA:
+Three Months Ended | Year Ended
+(in millions) | August 29, 2026 | August 30, 2025 | August 29, 2026 | August 30, 2025
+Net income | $ | 9.7 | $ | 13.7 | $ | 34.5 | $ | 25.7
+Interest expense, net | 4.6 | 6.6 | 20.9 | 25.9
+Income tax provision (benefit) | 2.9 | (0.4) | 9.9 | 4.4
+Depreciation | 9.5 | 9.8 | 38.3 | 38.5
+Amortization | 5.5 | 5.4 | 21.7 | 22.1
+EBITDA | 32.2 | 35.1 | 125.3 | 116.6
+Loss on note repurchase | — | — | 0.8 | 2.0
+Asset impairment | — | — | — | 1.2
+Restructuring and related costs | — | 2.9 | 1.6 | 2.9
+Gain on sale of property, plant and equipment | — | — | (2.8) | —
+Non-operating loss (income) | 0.4 | 0.2 | 0.1 | (0.8)
+Adjusted EBITDA | $ | 32.6 | $ | 38.2 | $ | 125.0 | $ | 121.9
+Non-GAAP performance measures of Adjusted diluted earnings per share, EBITDA and Adjusted EBITDA have been provided as comparable measures to illustrate the effect of non-recurring transactions occurring during the reported periods and to improve comparability of our results from period to period. Adjusted diluted earnings per share is defined as diluted earnings per share adjusted for after-tax items that impact the comparability of our results from period to period. EBITDA is defined as net income before interest expense, provision for income taxes, and depreciation and amortization expense. Adjusted EBITDA is defined as net income before interest expense, provision for income taxes, depreciation and amortization expense and other pretax adjustments made in order to present comparable results from period to period. Management believes Adjusted diluted earnings per share and Adjusted EBITDA provide meaningful supplemental information about our operating performance because these measures exclude amounts that we do not consider part of our core operating results when assessing our performance.
+Management uses these non-GAAP financial measures (a) to evaluate historical and prospective financial performance and trends as well as assess performance relative to competitors and peers; (b) to measure operational profitability on a consistent
+16
+basis; (c) in presentations to the members of our Board of Directors to enable our Board of Directors to have the same measurement basis of operating performance as is used by management in its assessments of performance and in forecasting and budgeting for the Company; (d) to evaluate potential acquisitions; and (e) to ensure compliance with restricted activities under the terms of our asset-backed revolving credit facility and outstanding notes. Management believes these non-GAAP financial measures are frequently used by securities analysts, investors, and other interested parties to evaluate companies in our industry.
+17
