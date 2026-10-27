@@ -310,5 +310,128 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/107687/000162828026066605/exh9912026q4earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/107687/000162828026066605/0001628280-26-066605-index.htm",
     "saved_at": "2026-10-25T21:57:48+08:00"
+  },
+  {
+    "cik": "813672",
+    "company": "CADENCE DESIGN SYSTEMS INC",
+    "accession": "0000813672-26-000116",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1633.311,
+        "unit": "USD millions",
+        "quote": "Total revenue | 1,633,311 | 1,338,838"
+      },
+      "operating_income": {
+        "value": 428.716,
+        "unit": "USD millions",
+        "quote": "Income from operations | 428,716 | 425,390"
+      },
+      "net_income": {
+        "value": 289.747,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 289,747 | $ | 287,122"
+      },
+      "diluted_eps": {
+        "value": 1.05,
+        "unit": "USD per share",
+        "quote": "Net income per share - diluted | $ | 1.05 | $ | 1.05"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal year 2026 the company expects revenue of $6.387 billion to $6.417 billion.",
+      "quote": "Revenue in the range of $6.387 billion to $6.417 billion"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says third quarter revenue grew 22% year on year, with double-digit growth in all product categories.",
+        "quote": "Q3 revenue grew 22% year-over-year, with strong double-digit growth across all product categories"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the company is raising its 2026 revenue outlook to 21% growth.",
+        "quote": "we are raising our 2026 revenue outlook to 21% year-over-year growth"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The release gives a GAAP operating margin of 26.2%, down from 31.8% a year earlier.",
+        "quote": "GAAP operating margin of 26.2%, compared to 31.8% in Q3 2025"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter outstanding and the CFO expects a strong 2026; both cite record backlog."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/813672-0000813672-26-000116.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000116/cdns10262026ex9901.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000116/0000813672-26-000116-index.htm",
+    "saved_at": "2026-10-27T23:23:02+08:00"
+  },
+  {
+    "cik": "1441236",
+    "company": "Clearwater Paper Corp",
+    "accession": "0001628280-26-067280",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 384.9,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 384.9 | $ | 399.0"
+      },
+      "operating_income": {
+        "value": 2.5,
+        "unit": "USD millions",
+        "quote": "Income (loss) from continuing operations | 2.5 | (55.4)"
+      },
+      "net_income": {
+        "value": -1.6,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (1.6) | $ | (53.3)"
+      },
+      "diluted_eps": {
+        "value": -0.1,
+        "unit": "USD per share",
+        "quote": "Net loss per share | $ | (0.10) | $ | (3.30)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The release says net sales fell, mainly because of lower market pricing.",
+        "quote": "Net sales of $385 million versus $399 million in the third quarter of 2025, primarily driven by lower market pricing"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says a major disruption at the Augusta mill hurt volumes and costs late in the quarter, largely offset by insurance settlements.",
+        "quote": "Our volumes and costs were negatively affected by a significant operational disruption at our Augusta mill late in the third quarter, with the impact being largely offset by a portion of RWI settlements."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO is optimistic about a continued recovery in industry conditions, despite cost headwinds.",
+        "quote": "We are optimistic about a continued recovery in SBS industry conditions, even as we face cost headwinds in transportation and chemicals."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is optimistic about recovery but reports an Augusta mill disruption that continued into October."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1441236-0001628280-26-067280.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1441236/000162828026067280/clw-20260930x8kexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1441236/000162828026067280/0001628280-26-067280-index.htm",
+    "saved_at": "2026-10-27T23:23:02+08:00"
   }
 ]

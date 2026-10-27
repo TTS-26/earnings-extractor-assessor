@@ -1,0 +1,195 @@
+Company: Clearwater Paper Corp (CIK 1441236)
+Accession: 0001628280-26-067280
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/1441236/000162828026067280/clw-20260930x8kexhibit991.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1441236/000162828026067280/0001628280-26-067280-index.htm
+Saved: 2026-10-27T23:23:02+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 clw-20260930x8kexhibit991.htm EX-99.1
+Exhibit 99.1
+Clearwater Paper Reports Third Quarter 2026 Results
+SPOKANE, Wash.--(BUSINESS WIRE)--October 26, 2026 --Clearwater Paper Corporation (NYSE:CLW), a premier independent supplier of bleached paperboard to North American converters today reported financial results for the third quarter ended September 30, 2026.
+THIRD QUARTER HIGHLIGHTS
+•Net sales of $385 million versus $399 million in the third quarter of 2025, primarily driven by lower market pricing
+•Net loss of $2 million, or $0.10 per diluted share versus net loss of $53 million, or $3.30 per diluted share in the third quarter of 2025 with that loss primarily related to a non-cash impairment of goodwill
+•Adjusted EBITDA from continuing operations of $24 million versus $18 million in the third quarter of 2025 primarily driven by timing of the Lewiston, Idaho planned major maintenance outage, partly offset by lower market pricing
+•Average selling price improved by $34 per ton versus the second quarter of 2026, primarily driven by previously announced price increases and sales mix improvement
+•Executed refinancing of all debt, meaningfully extending maturities
+•Received $17.5 million in additional representation and warranty insurance proceeds
+•Reduced net debt by $56 million year to date, driven by net working capital reductions, tax refunds and additional representation and warranty insurance proceeds
+"We delivered strong commercial execution during the quarter, with average selling prices increasing versus the second quarter. We successfully implemented our first announced price increase and continue to make meaningful progress on implementing the second increase," said Arsen Kitch, president and chief executive officer. "Our volumes and costs were negatively affected by a significant operational disruption at our Augusta mill late in the third quarter, with the impact being largely offset by a portion of RWI settlements. Operational Issues have continued into October, but we are making progress getting the mill back to normal operating conditions."
+OVERALL RESULTS
+For the third quarter of 2026, Clearwater Paper reported net sales of $385 million, compared to $399 million in the third quarter of 2025. The company reported a net loss from continuing operations of $2 million, or $0.10 per diluted share for the quarter, compared to net loss from continuing operations of $54 million, or $3.34 per diluted share, in the prior‑year period. Adjusted EBITDA from continuing operations was $24 million for the third quarter of 2026 compared to $18 million in the third quarter of 2025. The increase in Adjusted EBITDA from continuing operations was due to the timing of our major maintenance outage at our Lewiston facility offset by reduced sales prices. The Lewiston outage occurred in the third quarter of 2025 as compared to the second quarter of 2026.
+For the nine months of 2026, Clearwater Paper reported net sales of $1.1 billion compared to $1.2 billion for the nine months of 2025. The company reported a net loss from continuing operations of $36 million, or $2.23 per diluted share for the nine months of 2026, compared to a net loss from continuing operations of $56 million, or $3.47 per diluted share, in the prior‑year period. Adjusted EBITDA from continuing operations was $18 million for the nine months of 2026 compared to $87 million in the first nine months of 2025. The decrease in Adjusted EBITDA from continuing operations was due to the impact of a weather event during the first quarter of 2026 and reduced sales prices offset by higher sales volumes.
+Sales volumes and prices:
+•Sales volumes were 322,265 tons in the third quarter of 2026, a decrease of 1% compared to 324,198 tons in the third quarter of 2025. Sales volumes were 953,906 tons in the first nine months of 2026, an increase of 4% compared to 918,399 tons in the first nine months of 2025.
+•Paperboard average net selling price decreased 4% to $1,111 per ton for the third quarter of 2026, compared to $1,160 per ton in the third quarter of 2025. Paperboard average net selling price decreased 7% to $1,096 per ton for the first nine months of 2026, compared to $1,176 per ton in the first nine months of 2025.
+COMPANY OUTLOOK
+“We are optimistic about a continued recovery in SBS industry conditions, even as we face cost headwinds in transportation and chemicals. RISI is forecasting improved pricing later this quarter and into next year, which should help us recover some of the cost increases that we’ve faced and put us on the path towards our cross-cycle Adjusted EBITDA margins and cash flows,” concluded Kitch.
+WEBCAST INFORMATION
+Clearwater Paper Corporation will discuss these results during an earnings conference call that begins at 2:00 p.m. Pacific Time on October 26, 2026. A live webcast and accompanying supplemental information will be available on the company's website at www.clearwaterpaper.com. A replay of the conference call will be available on the website beginning at 5:00 p.m. Pacific Time the same day.
+ABOUT CLEARWATER PAPER CORPORATION
+Clearwater Paper is a premier independent supplier of paperboard packaging products to North American converters. Headquartered in Spokane, Wash., our team produces high-quality paperboard that provides sustainable packaging solutions for consumer goods and food service applications. For additional information, please visit our website at www.clearwaterpaper.com.
+USE OF NON-GAAP MEASURES
+In this press release, the company presents certain non-GAAP financial information for the third quarter and first nine months of 2026 and 2025, including adjusted net income (loss) from continuing operations, Adjusted EBITDA from continuing operations and Net debt. Because these amounts are not in accordance with GAAP, reconciliations to net income (loss) from continuing operations and Adjusted EBITDA from continuing operations as determined in accordance with GAAP are included in the tables at the end of this press release. The company presents these non-GAAP metrics because management believes they assist investors and analysts in comparing the company's performance across reporting periods on a consistent basis by excluding items that the company does not believe are indicative of its core operating performance. In addition, the company uses Adjusted EBITDA from continuing operations: (i) as a factor in evaluating management’s performance when determining incentive compensation, (ii) to evaluate the effectiveness of the company's business strategies, and (iii) because the company's credit agreement uses metrics similar to Adjusted EBITDA from continuing operations to measure the company's compliance with certain covenants. Non-GAAP measures may differ from similarly titled measures of other companies.
+FORWARD-LOOKING STATEMENTS
+This press release contains certain “forward-looking” statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended by the Private Securities Litigation Reform Act of 1995 as amended, including statements regarding the company’s expectations about the outlook for the next quarter, industry supply and demand conditions, pricing trends, market recovery timing, operating performance, operational execution, the company’s ability to execute its strategy amid current market conditions, as well as statements regarding the company’s progress in implementing its announced price increases; the recovery of the company’s Augusta mill and the company’s efforts to address underlying reliability issues; the continued recovery of SBS industry conditions; anticipated cost headwinds,including in transportation and chemicals; anticipated pricing trends, including third-party pricing forecasts, the company’s ability to recover cost increases; and the company’s ability to achieve its cross-cycle Adjusted EBITDA margins and cash flows.
+The company’s actual results of operations may differ materially from those expressed or implied by the forward-looking statements contained in this press release. Factors that could cause or contribute to such material differences in actual results include, but are not limited to: our inability to realize the expected benefits of the Augusta, Georgia paperboard manufacturing facility acquisition, including anticipated financial results; unexpected costs, charges or expenses resulting from the sale of our consumer products division (tissue business) and the related restructuring initiatives; competitive pricing pressures for our products arising from capacity additions, demand reduction and market conditions; the loss of, changes in prices for, or reduction in, orders from significant customers; changes in customer preferences, industry consolidation and vertical integration; changes in the cost and availability of wood fiber, pulp, energy, chemicals, packaging and transportation services; cyclical industry conditions and broader U.S. and global economic conditions; manufacturing or operating disruptions; labor disruptions; reliance on a limited number of suppliers and service providers; cyber-security risks; environmental liabilities and litigation, including PFAS-related claims involving our Augusta facility; our ability to execute our growth, expansion and operational efficiency initiatives and capital projects; changes in expenses, required contributions or withdrawal costs associated with our pension plans; our ability to attract and retain qualified personnel; our ability to service our debt obligations and comply with debt covenants; changes in banking relationships or credit ratings; and changes in laws, regulations or industry standards affecting our business, as well as other risks discussed in the company’s Annual Report on Form 10-K for the year ended December 31, 2025. The forward-looking statements are made as of the date of this press release and the company does not undertake to update any forward-looking statements based on new developments or changes in the company’s expectations after the date of this press release.
+Clearwater Paper Corporation
+Consolidated Statements of Operations
+(Unaudited)
+Quarter Ended September 30, | Nine Months Ended September 30,
+(In millions, except per-share data) | 2026 | 2025 | 2026 | 2025
+Net sales | $ | 384.9 | $ | 399.0 | $ | 1,120.0 | $ | 1,169.0
+Costs and expenses:
+Cost of sales | 363.7 | 380.3 | 1,110.1 | 1,070.6
+Selling, general and administrative expenses | 20.1 | 24.7 | 61.8 | 79.7
+Other operating charges, net 1 | (1.4) | 1.5 | (20.1) | 20.4
+Goodwill impairment | — | 48.0 | — | 48.0
+Total operating costs and expenses | 382.4 | 454.4 | 1,151.8 | 1,218.7
+Income (loss) from continuing operations | 2.5 | (55.4) | (31.8) | (49.6)
+Interest expense, net | (4.8) | (4.7) | (14.8) | (12.0)
+Early debt extinguishment | (1.1) | — | (1.1) | —
+Other non-operating expense | (1.1) | (0.3) | (3.4) | (0.9)
+Total non-operating expense | (7.0) | (5.0) | (19.3) | (12.9)
+Loss from continuing operations before income taxes | (4.5) | (60.4) | (51.1) | (62.6)
+Income tax benefit | (2.9) | (6.5) | (15.2) | (6.3)
+Loss from continuing operations | (1.6) | (53.9) | (35.9) | (56.2)
+Income (loss) from discontinued operations, net of tax | — | 0.6 | — | (0.7)
+Net loss | $ | (1.6) | $ | (53.3) | $ | (35.9) | $ | (56.9)
+Net loss per common share (basic and diluted):
+Loss per share from continuing operations - basic | $ | (0.10) | $ | (3.34) | $ | (2.23) | $ | (3.47)
+Income (loss) per share from discontinued operations - basic | — | 0.04 | — | (0.04)
+Net loss per share | $ | (0.10) | $ | (3.30) | $ | (2.23) | $ | (3.51)
+Average shares outstanding (in thousands):
+Basic and diluted | 16,134 | 16,142 | 16,105 | 16,213
+1 Other operating charges, net consist of amounts unrelated to ongoing core operating activities. Please refer to Note 12 within Clearwater Paper's Form 10-Q filed with the SEC for the period ended September 30, 2026 for the detailed breakout of this amount.
+Clearwater Paper Corporation
+Condensed Consolidated Balance Sheets
+(Unaudited)
+(In millions) | September 30, 2026 | December 31, 2025
+Assets
+Current assets:
+Cash and cash equivalents | $ | 35.7 | $ | 30.7
+Restricted cash for redemption of debt | 276.7 | —
+Receivables, net | 162.8 | 195.3
+Inventories, net | 249.8 | 281.7
+Other current assets | 21.4 | 18.3
+Total current assets | 746.4 | 526.0
+Property, plant and equipment | 2,407.8 | 2,377.9
+Accumulated depreciation and amortization | (1,439.1) | (1,376.1)
+Property, plant and equipment, net | 968.7 | 1,001.8
+Other assets, net | 61.1 | 60.4
+Total assets | $ | 1,776.2 | $ | 1,588.3
+Liabilities and stockholders' equity
+Current liabilities:
+Current portion of long-term debt | $ | 274.7 | $ | 0.6
+Accounts payable and accrued liabilities | 231.9 | 215.6
+Total current liabilities | 506.6 | 216.2
+Long-term debt | 292.7 | 345.5
+Liability for pension and other postretirement employee benefits | 45.4 | 49.5
+Deferred tax liabilities | 54.1 | 68.2
+Other long-term obligations | 83.2 | 83.7
+Total liabilities | 982.0 | 763.0
+Stockholders' equity:
+Common stock | — | —
+Additional paid-in capital | 8.0 | 8.3
+Treasury stock, at cost | (11.4) | (14.8)
+Retained earnings | 826.3 | 862.3
+Accumulated other comprehensive loss, net of tax | (28.8) | (30.5)
+Total stockholders' equity | 794.2 | 825.3
+Total liabilities and stockholders' equity | $ | 1,776.2 | $ | 1,588.3
+Clearwater Paper Corporation
+Consolidated Statements of Cash Flows
+(Unaudited)
+Quarter Ended September 30, | Nine Months Ended September 30,
+(In millions) | 2026 | 2025 | 2026 | 2025
+Operating activities
+Net loss | $ | (1.6) | $ | (53.3) | $ | (35.9) | $ | (56.9)
+Adjustments to reconcile net loss to net cash flows provided by operating activities:
+Goodwill impairment | — | 48.0 | — | 48.0
+Depreciation and amortization | 23.3 | 23.8 | 69.9 | 68.7
+Equity-based compensation expense | 2.6 | 0.6 | 5.0 | 4.1
+Deferred taxes | (3.0) | (6.4) | (14.6) | (7.0)
+Defined benefit pension and other postretirement employee benefits | (2.0) | — | (1.2) | (0.3)
+Gain on business divestiture | — | (1.1) | — | (1.1)
+Amortization of deferred debt costs and debt extinguishment | 1.5 | 0.6 | 2.5 | 1.7
+Loss on sale or impairment associated with assets | 1.9 | 2.0 | 1.9 | 5.1
+Changes in operating assets and liabilities:
+Decrease in accounts receivable | (0.2) | 4.2 | 24.5 | 26.8
+(Increase) decrease in inventories | 11.3 | — | 30.6 | (25.3)
+Decrease in other current assets | (2.1) | 5.7 | 2.9 | 9.9
+Increase (decrease) in accounts payable and accrued liabilities | (1.6) | 11.4 | 16.1 | (65.0)
+Other, net | 0.5 | (1.3) | (1.5) | (1.4)
+Net cash flows provided by operating activities | 30.6 | 33.9 | 100.1 | 7.3
+Investing activities
+Additions to property, plant and equipment, net | (14.7) | (18.3) | (33.4) | (73.9)
+Adjustment to proceeds from business divestiture | — | (12.1) | — | (12.1)
+Net cash flows used in investing activities | (14.7) | (30.4) | (33.4) | (86.0)
+Financing activities
+Borrowings on long-term debt | 290.0 | 7.0 | 305.0 | 72.0
+Repayments of long-term debt | (79.1) | (0.2) | (79.4) | (18.5)
+Repurchases of common stock | — | (2.1) | (0.1) | (17.2)
+Other, net | (2.5) | (20.6) | (3.2) | (2.9)
+Net cash flows (used in) provided by financing activities | 208.4 | (15.9) | 222.3 | 33.5
+Increase (decrease) in cash, cash equivalents and restricted cash | 224.3 | (12.3) | 288.9 | (45.2)
+Cash, cash equivalents and restricted cash at beginning of period | 95.4 | 46.7 | 30.7 | 79.6
+Cash, cash equivalents and restricted cash at end of period | $ | 319.6 | $ | 34.4 | $ | 319.6 | $ | 34.4
+Clearwater Paper Corporation
+Reconciliation of Non-GAAP Financial Measures
+Adjusted EBITDA
+(Unaudited)
+Quarter Ended September 30, | Nine Months Ended September 30,
+(In millions) | 2026 | 2025 | 2026 | 2025
+Net loss | $ | (1.6) | $ | (53.3) | $ | (35.9) | $ | (56.9)
+Add (deduct):
+Less: income (loss) from discontinued operations, net of tax | — | 0.6 | — | (0.7)
+Loss from continuing operations | (1.6) | (53.9) | (35.9) | (56.2)
+Income tax benefit | (2.9) | (6.5) | (15.2) | (6.3)
+Interest expense, net | 4.8 | 4.7 | 14.8 | 12.0
+Goodwill impairment | — | 48.0 | — | 48.0
+Depreciation and amortization | 23.3 | 23.8 | 69.9 | 68.7
+Other operating charges, net 1 | (1.4) | 1.5 | (20.1) | 20.4
+Early debt extinguishment | 1.1 | — | 1.1 | —
+Other non-operating expense | 1.1 | 0.3 | 3.4 | 0.9
+Adjusted EBITDA from continuing operations | $ | 24.4 | $ | 17.8 | $ | 18.0 | $ | 87.4
+1 Other operating charges, net consist of amounts unrelated to ongoing core operating activities. Please refer to Note 12 within Clearwater Paper's Form 10-Q filed with the SEC for the period ended September 30, 2026 for the detailed breakout of this amount.
+Clearwater Paper Corporation
+Reconciliation of Non-GAAP Financial Measures
+(Unaudited)
+Quarter Ended September 30, | Nine Months Ended September 30,
+(In millions, except per share data) | 2026 | 2025 | 2026 | 2025
+Adjusted income (loss) from continuing operations:
+Net loss | $ | (1.6) | $ | (53.3) | $ | (35.9) | $ | (56.9)
+Add (deduct):
+Less: income (loss) from discontinued operations, net of tax | — | 0.6 | — | (0.7)
+Loss from continuing operations | (1.6) | (53.9) | (35.9) | (56.2)
+Add back:
+Income tax benefit | (2.9) | (6.5) | (15.2) | (6.3)
+Goodwill impairment | — | 48.0 | — | 48.0
+Early debt extinguishment | 1.1 | — | 1.1 | —
+Other operating charges, net | (1.4) | 1.5 | (20.1) | 20.4
+Adjusted income (loss) from continuing operations before tax | (4.9) | (11.0) | (70.1) | 5.8
+Normalized income tax provision (benefit)1 | (1.2) | (2.7) | (17.5) | 1.4
+Adjusted income (loss) from continuing operations | $ | (3.7) | $ | (8.2) | $ | (52.6) | $ | 4.3
+Weighted average diluted shares (thousands) | 16,134 | 16,142 | 16,105 | 16,213
+Adjusted income (loss) from continuing operations per diluted share | $ | (0.23) | $ | (0.51) | $ | (3.27) | $ | 0.27
+1 Calculated at 25% which is an estimate of Clearwater Paper's statutory tax rate
+Calculation of net debt: | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025
+Current portion long-term debt | $ | 274.7 | $ | 0.6 | $ | 0.6 | $ | 0.6
+Long-term debt | 292.7 | 360.5 | 360.5 | 345.5
+Add back:
+Unamortized deferred debt costs | (5.7) | (1.1) | (1.2) | (1.3)
+Less:
+Cash and cash equivalents | 35.7 | 95.4 | 36.5 | 30.7
+Restricted cash for bond redemption | 276.7 | — | — | —
+Net debt | $ | 260.7 | $ | 266.8 | $ | 325.8 | $ | 316.7
+Clearwater Paper Corporation
+Investors contact:
+investorinfo@clearwaterpaper.com
+509-344-5906
+News media:
+Virginia Aulin, Senior Vice President, Human Resources and Public Affairs
+509-344-5967
+Virginia.aulin@clearwaterpaper.com
