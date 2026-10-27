@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T08:22:52+08:00",
+  "fetched_at": "2026-10-27T08:45:14+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,79 +16,79 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-26",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 295 ms"
+      "detail": "HTTP 200, 43 KB in 580 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 100 ms"
+      "detail": "HTTP 200, 148 KB in 47 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 89 ms"
+      "detail": "HTTP 200, 156 KB in 28 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 42 ms"
+      "detail": "HTTP 200, 155 KB in 18 ms"
     },
     {
       "name": "CADENCE DESIGN SYSTEMS INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000116/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 55 ms"
+      "detail": "HTTP 200, 1 KB in 70 ms"
     },
     {
       "name": "CADENCE DESIGN SYSTEMS INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000116/cdns10262026ex9901.htm",
       "ok": true,
-      "detail": "HTTP 200, 302 KB in 60 ms"
+      "detail": "HTTP 200, 302 KB in 87 ms"
     },
     {
       "name": "Clearwater Paper Corp filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1441236/000162828026067280/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 29 ms"
+      "detail": "HTTP 200, 3 KB in 76 ms"
     },
     {
       "name": "Clearwater Paper Corp press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1441236/000162828026067280/clw-20260930x8kexhibit991.htm",
       "ok": true,
-      "detail": "HTTP 200, 231 KB in 90 ms"
+      "detail": "HTTP 200, 231 KB in 147 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 47 ms"
+      "detail": "HTTP 200, 3,090 KB in 48 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 90 ms"
+      "detail": "HTTP 200, 4,373 KB in 25 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 79 ms"
+      "detail": "HTTP 200, 2,736 KB in 23 ms"
     },
     {
       "name": "CADENCE DESIGN SYSTEMS INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000813672.json",
       "ok": true,
-      "detail": "HTTP 200, 3,514 KB in 356 ms"
+      "detail": "HTTP 200, 3,514 KB in 47 ms"
     },
     {
       "name": "Clearwater Paper Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001441236.json",
       "ok": true,
-      "detail": "HTTP 200, 3,433 KB in 79 ms"
+      "detail": "HTTP 200, 3,433 KB in 431 ms"
     }
   ],
   "files": [
