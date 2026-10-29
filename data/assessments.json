@@ -1870,5 +1870,213 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-29T06:37:44+08:00"
+  },
+  {
+    "accession": "0000813672-26-000116",
+    "cik": "813672",
+    "company": "CADENCE DESIGN SYSTEMS INC",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figure could not be read today (SEC answered 403). The quote is in the release and holds 1,633,311 thousand, i.e. 1,633.311 million."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figure could not be read today (SEC answered 403). The quote is in the release and holds 428,716 thousand, i.e. 428.716 million."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figure could not be read today (SEC answered 403). The quote is in the release and holds 289,747 thousand, i.e. 289.747 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figure could not be read today (SEC answered 403). The quote is in the release and holds 1.05 per share."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers. The 10-Q check is still to come, as the SEC could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are present, and the revenue guidance for 2026 ($6.387 billion to $6.417 billion) is given with its quote."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, with quotes and claims. The figures are not yet checked against the 10-Q, and the \"all product categories\" claim needs the release."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "1,633.311 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "428.716 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "289.747 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "1.05 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Judged on the release's table: revenue 1,633,311 against 1,338,838 a year ago is +22.0%. The \"double-digit in all product categories\" part cannot be tested from the fundamentals."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "Outlook claim. The 2025 revenue base is not in the release or the fundamentals, so 21% growth cannot be tested. Q3 grew 22.0% on a year ago, which is consistent with 21% for the year."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "From the release table: 428,716 / 1,633,311 = 26.2% against 425,390 / 1,338,838 = 31.8% a year ago. Both figures agree with the claim."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue rose 22.0% on a year ago and the release gives a record backlog of $8.2 billion. Weaker points: GAAP operating margin fell 5.6 points and net income rose only 0.9% (289,747 vs 287,122)."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 1633.311,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 428.716,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 289.747,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 1.05,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 26.248277272362706,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 17.739854810259654,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says third quarter revenue grew 22% year on year, with double-digit growth in all product categories.",
+        "quote": "Q3 revenue grew 22% year-over-year, with strong double-digit growth across all product categories",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the company is raising its 2026 revenue outlook to 21% growth.",
+        "quote": "we are raising our 2026 revenue outlook to 21% year-over-year growth",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The release gives a GAAP operating margin of 26.2%, down from 31.8% a year earlier.",
+        "quote": "GAAP operating margin of 26.2%, compared to 31.8% in Q3 2025",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter outstanding and the CFO expects a strong 2026; both cite record backlog."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-30T06:38:01+08:00"
   }
 ]
