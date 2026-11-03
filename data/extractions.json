@@ -433,5 +433,247 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1441236/000162828026067280/clw-20260930x8kexhibit991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1441236/000162828026067280/0001628280-26-067280-index.htm",
     "saved_at": "2026-10-27T23:23:02+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 31,228 | $ | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 34,979 | $ | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year.",
+        "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues grew 103%, driven by demand for AI infrastructure and solutions.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and cites momentum across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:08:23+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion, growth of 12% to 16%.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "AWS grew over 39% year over year, and management projects over 40% growth in 2027 and 2028.",
+        "quote": "Our AWS investment in functionality and infrastructure is working, with over 39% year-over-year revenue growth in Q3 ($184 billion revenue run rate) and projected revenue growth rates of over 40% both in 2027 and in 2028"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating margin was 13.9%, described as the highest ever.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Fourth quarter operating income is expected between $28.5 billion and $33.5 billion.",
+        "quote": "Operating income is expected to be between $28.5 billion and $33.5 billion, compared with $25.0 billion in fourth quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and projects faster growth ahead."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:08:23+08:00"
+  },
+  {
+    "cik": "887596",
+    "company": "CHEESECAKE FACTORY INC",
+    "accession": "0001104659-26-119176",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-29",
+    "period_label": "quarter ended 29 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1033.44,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 1,033,440"
+      },
+      "operating_income": {
+        "value": 74.873,
+        "unit": "USD millions",
+        "quote": "Income from operations | 74,873"
+      },
+      "net_income": {
+        "value": 61.3,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 61,300"
+      },
+      "diluted_eps": {
+        "value": 1.19,
+        "unit": "USD per share",
+        "quote": "Diluted net income per share | $ | 1.19"
+      }
+    },
+    "guidance": {
+      "text": "The company continues to expect to open as many as 26 new restaurants in fiscal 2026.",
+      "quote": "The Company continues to expect to open as many as 26 new restaurants in fiscal 2026"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO reports record quarterly revenue, with margins and earnings above expectations.",
+        "quote": "We delivered an exceptional third quarter, generating record quarterly revenue, with margins and earnings also exceeding our expectations"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Comparable sales at The Cheesecake Factory restaurants rose 15.2% year over year.",
+        "quote": "Comparable restaurant sales at The Cheesecake Factory restaurants increased 15.2% year-over-year in the third quarter of fiscal 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Better labour productivity and food efficiency supported strong profitability.",
+        "quote": "year-over-year improvements in labor productivity and food efficiency supported strong profitability"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter exceptional and says results beat expectations."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/887596-0001104659-26-119176.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/887596/000110465926119176/tm2628239d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/887596/000110465926119176/0001104659-26-119176-index.htm",
+    "saved_at": "2026-11-04T06:08:23+08:00"
+  },
+  {
+    "cik": "1333986",
+    "company": "Equitable Holdings, Inc.",
+    "accession": "0001333986-26-000054",
+    "release_date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3881,
+        "unit": "USD millions",
+        "quote": "Total revenues | 3,881 | 1,450"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 1121,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to Holdings | 1,121 | (1,309)"
+      },
+      "diluted_eps": {
+        "value": 4.05,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 4.05 | $ | (4.47)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Net income attributable to Holdings was $1.1 billion, or $4.05 per share.",
+        "quote": "Net income of $1.1 billion, or $4.05 per share"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Organic growth was positive in every business, with net inflows in each.",
+        "quote": "Organic growth was strong across each of our businesses, highlighted by $1.1 billion of net inflows in Retirement, $2.7 billion of advisory net inflows in Wealth Management and $6.6 billion of net inflows for AllianceBernstein."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The merger with Corebridge Financial is on track to close by year-end 2026.",
+        "quote": "Merger with Corebridge Financial remains on track to close by year-end 2026"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites strong organic growth and demand, and a merger on track."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1333986-0001333986-26-000054.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1333986/000133398626000054/eqh3q2026earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1333986/000133398626000054/0001333986-26-000054-index.htm",
+    "saved_at": "2026-11-04T06:08:23+08:00"
   }
 ]
