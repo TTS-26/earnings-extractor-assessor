@@ -4574,5 +4574,213 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-11-07T06:37:37+08:00"
+  },
+  {
+    "accession": "0001333986-26-000054",
+    "cik": "1333986",
+    "company": "Equitable Holdings, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q could not be read (SEC blocked, 403). The quote 'Total revenues | 3,881' is in the release and holds 3,881. 10-Q check still to come."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release has no operating income line, only pre-tax income of 1,388."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q could not be read (SEC blocked, 403). The quote is in the release and holds 1,121. 10-Q check still to come."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q could not be read (SEC blocked, 403). The quote is in the release and holds 4.05. 10-Q check still to come."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All three figures held quotes found in the release with the right numbers. The 10-Q check is still to come, as the SEC was blocked."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Three of four figures present. Operating income is empty, but the release gives no operating income line. Guidance not given."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, with exact quotes. Operating income is missing, so the analyst may open the release for pre-tax income of 1,388."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "3,881 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "1,121 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "4.05 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's table: net income 1,121 USD millions and diluted EPS 4.05, as the claim says. No 10-Q figure yet."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Tested on the release's text, not the fundamentals: net inflows of $1.1bn (Retirement), $2.7bn (Wealth Management) and $6.6bn (AB) are all positive. Retirement was flat on a year ago."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "A merger timetable is not a figure; the fundamentals cannot test it. Revenue 3,881 is the only number available and there is no year-ago comparison."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "The release shows net income of 1,121 against a loss of (1,309) a year ago, and EPS of 4.05 against (4.47). Positive fits those figures."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 3881,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 1121,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 4.05,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 28.88430816799794,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Net income attributable to Holdings was $1.1 billion, or $4.05 per share.",
+        "quote": "Net income of $1.1 billion, or $4.05 per share",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Organic growth was positive in every business, with net inflows in each.",
+        "quote": "Organic growth was strong across each of our businesses, highlighted by $1.1 billion of net inflows in Retirement, $2.7 billion of advisory net inflows in Wealth Management and $6.6 billion of net inflows for AllianceBernstein.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The merger with Corebridge Financial is on track to close by year-end 2026.",
+        "quote": "Merger with Corebridge Financial remains on track to close by year-end 2026",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO cites strong organic growth and demand, and a merger on track."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-08T06:38:00+08:00"
   }
 ]
